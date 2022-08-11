@@ -6,9 +6,10 @@
 }
 
 main {
-  border: 1px solid #fff;
   aspect-ratio: 9/16;
+  overflow-y: scroll;
   width: 100vw;
   max-width: 375px;
   border-radius: 3px;
+  display: block;
 }
